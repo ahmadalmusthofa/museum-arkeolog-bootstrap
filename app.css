@@ -1,13 +1,13 @@
 body {
-  background-color: #da8359;
+  background-color: #697565;
   font-family: "nunito", sans-serif;
 }
 #navbar {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   font-weight: 100;
 }
 #navbar .nav-link {
-  color: white;
+  color: #fff4b7;
 }
 #navbar .nav-link:hover {
   color: #354259;
@@ -25,12 +25,12 @@ body {
   font-size: 4rem;
 }
 .blurb h2 {
-  color: #354259;
+  color: #fff4b7;
   font-weight: 100;
   font-size: 2.5rem;
 }
 .blurb p {
-  color: #3f434f;
+  color: #fff4b7;
   font-weight: 100;
   font-size: 1.123rem;
   line-height: 2;
